@@ -1,0 +1,232 @@
+/* Copyright (c) 2006, Sun Microsystems, Inc.
+ * All rights reserved.
+ *
+ * Redistribution and use in source and binary forms, with or without
+ * modification, are permitted provided that the following conditions are met:
+ *
+ *     * Redistributions of source code must retain the above copyright notice,
+ *       this list of conditions and the following disclaimer.
+ *     * Redistributions in binary form must reproduce the above copyright
+ *       notice, this list of conditions and the following disclaimer in the
+ *       documentation and/or other materials provided with the distribution.
+ *     * Neither the name of the Sun Microsystems, Inc. nor the names of its
+ *       contributors may be used to endorse or promote products derived from
+ *       this software without specific prior written permission.
+ *
+ * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+ * AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+ * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ * ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE
+ * LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+ * CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+ * SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+ * INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+ * CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
+ * THE POSSIBILITY OF SUCH DAMAGE.
+ */
+/*
+ * Copyright (C) 2014 by Herbert Roider <herbert.roider@utanet.at>
+ * 
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ * 
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ * 
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+/*
+javacc 5.0 is required
+Do not overwrite the file JavaCharStream.java by javacc!
+compile lexer:
+/home/herbert/archiv/javacc-5.0/bin/javacc nc.jj
+*/
+
+options {
+  JAVA_UNICODE_ESCAPE = true;
+  ERROR_REPORTING = false;
+  STATIC = false;
+  COMMON_TOKEN_ACTION = false;
+  TOKEN_FACTORY = "Token";
+  /*
+JDK_VERSION = "1.5";
+*/
+  BUILD_PARSER = false;
+}
+
+PARSER_BEGIN(NcParser)
+package org.roiderh.syntaxhighlighter.jcclexer;
+public class NcParser {}
+PARSER_END(NcParser)
+
+/* WHITE SPACE */
+
+TOKEN :
+{
+ < WHITESPACE:
+  " "
+| "\t"
+| "\n"
+| "\r"
+| "\f">
+}
+
+/* COMMENTS */
+
+
+TOKEN :
+{
+  <SINGLE_LINE_COMMENT: ((";")|("(")) (~["\n","\r"])* ("\n" | "\r" | "\r\n" | ")") >
+
+}
+
+
+// for Sinumerik to get the Parameter like "X = 3+5"
+< DEFAULT > MORE : { < START_EXPRESSION :  ("=") > : IN_EXPRESSION }
+
+< IN_EXPRESSION > TOKEN : 
+{ 
+   < EXPRESSION : ( (["A"-"Z","0"-"9",")"]) ( (" ")+ (["A"-"Z","0"-"9"])))
+   |
+   (("\n")|("\r")|(";"))
+
+    
+>  { matchedToken.image = image.toString().substring(0, image.toString().length()-1);  input_stream.backup(1); } : DEFAULT 
+
+} 
+
+< IN_EXPRESSION >  MORE : {  <  ~[] > }  
+
+
+/* Function call */
+
+< DEFAULT > MORE : { < START_PARAM_LIST :   (["A"-"Z","_"])(["A"-"Z","0"-"9","_"])* (" ")* ("(") > : IN_PARAM_LIST }
+
+< IN_PARAM_LIST > TOKEN : 
+{ 
+   < FUNCTION_CALL : (")") 
+    |  
+    (("\n")|("\r")|(";"))
+    >  : DEFAULT 
+
+} 
+
+< IN_PARAM_LIST >  MORE : {  <  ~[] > }  
+
+ 
+
+
+
+
+
+/* RESERVED WORDS AND LITERALS */
+TOKEN :
+{
+ 
+< LABEL: ("N" (["0"-"9"])+) 
+     | 
+     ( (["0"-"9","A"-"Z","_"])+  (":") ) >
+}
+
+TOKEN :
+{
+ 
+// Functions like G1, M3 and Parameter that supports a short form like: X3.4 X-2.0
+< AXIS: (["X","Y","Z","I","J","K"]) ("-")? (<DECIMAL_FLOATING_POINT_LITERAL>)? >
+| < G: "G" (["0"-"9"])+ >
+| < M: "M" (["0"-"9"])+ >
+| < TOOL: (["T","D"])(["0"-"9"])+ >
+| < SPEED: (["F","S"]) ("-")? (<DECIMAL_FLOATING_POINT_LITERAL>)? >
+| < LPARA: "L" (["0"-"9"])+ >
+| < PARA: (["A"-"Z"]) ("-")? (<DECIMAL_FLOATING_POINT_LITERAL>)? >
+| < PROGNR: ("%") ( (("M")|("S")("PF")(" ")*(["0"-"9"])+) | (["0"-"9","A"-"Z","_"])+ ) >
+
+
+}
+
+
+TOKEN:
+{
+    < KEYWORD: "CHR"
+         |"CR" 
+         |"CHF" 
+         |"RND"
+
+        |"GOTOF" 
+        | "GOTOB"
+        | "IF"
+        | "THEN"
+       
+>
+}   
+
+
+/* LITERALS */
+
+TOKEN :
+{
+  < INTEGER_LITERAL:
+        <DECIMAL_LITERAL> (["l"])?
+     
+  >
+|
+  < #DECIMAL_LITERAL: ["1"-"9"] (["0"-"9"])* >
+
+|
+  < FLOATING_POINT_LITERAL:
+        <DECIMAL_FLOATING_POINT_LITERAL>
+  >
+|
+  < #DECIMAL_FLOATING_POINT_LITERAL:
+        (["0"-"9"])+ "." (["0"-"9"])* (<DECIMAL_EXPONENT>)? 
+      | "." (["0"-"9"])+ (<DECIMAL_EXPONENT>)? 
+      | (["0"-"9"])+ <DECIMAL_EXPONENT> 
+      | (["0"-"9"])+ (<DECIMAL_EXPONENT>)? 
+  >
+|
+  < #DECIMAL_EXPONENT: ["e","E"] (["+","-"])? (["0"-"9"])+ >
+
+
+}
+
+/* IDENTIFIERS */
+
+TOKEN :
+{
+  < IDENTIFIER: <LETTER> (<PART_LETTER>)* >
+|
+  < #LETTER:
+      [  // all chars for which Character.isIdentifierStart is true
+         "%",
+         "$",
+         "A"-"Z",
+         "_",
+         "[",     // only for config files in ini-Format to avoid Exceptions
+         "@"
+
+      ]
+  >
+|
+  < #PART_LETTER:
+      [  // all chars for which Character.isIdentifierPart is true
+         "[",
+         "]",
+         ",",
+         "$",
+         "0"-"9",
+         "A"-"Z",
+         "_"
+ 
+      ]
+  >
+}
+
+TOKEN :
+{ <ERROR : ~[]> }

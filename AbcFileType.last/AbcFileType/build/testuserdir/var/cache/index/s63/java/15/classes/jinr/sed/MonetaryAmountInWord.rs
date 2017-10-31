@@ -1,0 +1,12 @@
+jinr.sed.MonetaryAmountInWordRuEUR
+jinr.sed.MonetaryAmountInWordEn
+jinr.sed.MonetaryAmountInWordEnRUB
+jinr.sed.MonetaryAmountInWordEnEUR
+jinr.sed.MonetaryAmountInWord
+jinr.sed.MonetaryAmountInWordRuRUB
+jinr.sed.MonetaryAmountInWordRuCHF
+jinr.sed.MonetaryAmountInWordEnCHF
+jinr.sed.MonetaryAmountInWordEnUSD
+jinr.sed.MonetaryAmountInWordRu
+jinr.sed.AbstractMonetaryAmountInWord
+jinr.sed.MonetaryAmountInWordRuUSD

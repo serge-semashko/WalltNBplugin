@@ -1,0 +1,4698 @@
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=;
+curLexState0
+fil token0 00 0
+begin loop
+curchar=(
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=X
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=Z
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=Z
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=X
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=C
+curLexState0
+fil token0 00 0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+curLexState1
+curLexState1
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=Z
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=R
+curLexState0
+fil token0 00 0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=X
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=C
+curLexState0
+fil token0 00 0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=Z
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=X
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=Z
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=C
+curLexState0
+fil token0 00 0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+curLexState1
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=Z
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=X
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+fil token0 00 0
+return token=' 0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+curLexState1
+curLexState1
+fil token0 00 0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+curLexState1
+curLexState1
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=;
+curLexState0
+fil token0 00 0
+begin loop
+curchar=(
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=X
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=Z
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=Z
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=X
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=C
+curLexState0
+fil token0 00 0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+curLexState1
+curLexState1
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=Z
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=R
+curLexState0
+fil token0 00 0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=X
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=C
+curLexState0
+fil token0 00 0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=Z
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=X
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=Z
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=C
+curLexState0
+fil token0 00 0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+curLexState1
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=Z
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=X
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+fil token0 00 0
+return token=' 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=;
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=;
+curLexState0
+fil token0 00 0
+begin loop
+curchar=(
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=X
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=Z
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=Z
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=X
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=C
+curLexState0
+fil token0 00 0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+curLexState1
+curLexState1
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=Z
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=R
+curLexState0
+fil token0 00 0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=X
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=C
+curLexState0
+fil token0 00 0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=Z
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=X
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=Z
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=C
+curLexState0
+fil token0 00 0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+curLexState1
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=Z
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=G
+curLexState0
+fil token0 00 0
+begin loop
+curchar= 
+curLexState0
+fil token0 00 0
+begin loop
+curchar=X
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+fil token0 00 0
+return token=' 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=;
+curLexState0
+fil token0 00 0
+begin loop
+curchar=(
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=;
+curLexState0
+fil token0 00 0
+begin loop
+curchar=(
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=
+
+curLexState0
+fil token0 00 0
+begin loop
+curchar=N
+curLexState0
+fil token0 00 0
+javachar init
+javachar init
+begin loop
+javachar readchar=
+
+begin token=
+
+curchar=
+
+curLexState0
+javachar getimage=
+
+fil token0 00 0
+begin loop
+javachar readchar=;
+begin token=;
+curchar=;
+curLexState0
+javachar readchar= 
+javachar readchar=T
+javachar readchar=H
+javachar readchar=I
+javachar readchar=S
+javachar readchar= 
+javachar readchar=I
+javachar readchar=S
+javachar readchar= 
+javachar readchar=A
+javachar readchar= 
+javachar readchar=C
+javachar readchar=O
+javachar readchar=M
+javachar readchar=M
+javachar readchar=E
+javachar readchar=N
+javachar readchar=T
+javachar readchar=
+
+javachar getimage=; THIS IS A COMMENT
+
+fil token0 00 0
+begin loop
+javachar readchar=(
+begin token=(
+curchar=(
+curLexState0
+javachar readchar= 
+javachar readchar=T
+javachar readchar=H
+javachar readchar=I
+javachar readchar=S
+javachar readchar= 
+javachar readchar=I
+javachar readchar=S
+javachar readchar= 
+javachar readchar=A
+javachar readchar= 
+javachar readchar=C
+javachar readchar=O
+javachar readchar=M
+javachar readchar=M
+javachar readchar=E
+javachar readchar=N
+javachar readchar=T
+javachar readchar= 
+javachar readchar=)
+javachar readchar=
+
+javachar getimage=( THIS IS A COMMENT )
+
+fil token0 00 0
+begin loop
+javachar readchar=
+
+begin token=
+
+curchar=
+
+curLexState0
+javachar getimage=
+
+fil token0 00 0
+begin loop
+javachar readchar=
+
+begin token=
+
+curchar=
+
+curLexState0
+javachar getimage=
+
+fil token0 00 0
+begin loop
+javachar readchar=N
+begin token=N
+curchar=N
+curLexState0
+javachar readchar=1
+javachar readchar=0
+javachar readchar= 
+javachar readchar=G
+javachar backup=2
+javachar getimage=N10
+fil token0 00 0
+begin loop
+javachar readchar= 
+begin token= 
+curchar= 
+curLexState0
+javachar getimage= 
+fil token0 00 0
+begin loop
+javachar readchar=G
+begin token=G
+curchar=G
+curLexState0
+javachar readchar=0
+javachar readchar= 
+javachar readchar=X
+javachar backup=2
+javachar getimage=G0
+fil token0 00 0
+begin loop
+javachar readchar= 
+begin token= 
+curchar= 
+curLexState0
+javachar getimage= 
+fil token0 00 0
+begin loop
+javachar readchar=X
+begin token=X
+curchar=X
+curLexState0
+javachar readchar=0
+javachar readchar= 
+javachar readchar=Z
+javachar backup=2
+javachar getimage=X0
+fil token0 00 0
+begin loop
+javachar readchar= 
+begin token= 
+curchar= 
+curLexState0
+javachar getimage= 
+fil token0 00 0
+begin loop
+javachar readchar=Z
+begin token=Z
+curchar=Z
+curLexState0
+javachar readchar=1
+javachar readchar=
+
+javachar backup=1
+javachar getimage=Z1
+fil token0 00 0
+begin loop
+javachar readchar=
+
+begin token=
+
+curchar=
+
+curLexState0
+javachar getimage=
+
+fil token0 00 0
+begin loop
+javachar readchar=N
+begin token=N
+curchar=N
+curLexState0
+javachar readchar=2
+javachar readchar=0
+javachar readchar= 
+javachar readchar=G
+javachar backup=2
+javachar getimage=N20
+fil token0 00 0
+begin loop
+javachar readchar= 
+begin token= 
+curchar= 
+curLexState0
+javachar getimage= 
+fil token0 00 0
+begin loop
+javachar readchar=G
+begin token=G
+curchar=G
+curLexState0
+javachar readchar=1
+javachar readchar= 
+javachar readchar=Z
+javachar backup=2
+javachar getimage=G1
+fil token0 00 0
+begin loop
+javachar readchar= 
+begin token= 
+curchar= 
+curLexState0
+javachar getimage= 
+fil token0 00 0
+begin loop
+javachar readchar=Z
+begin token=Z
+curchar=Z
+curLexState0
+javachar readchar=0
+javachar readchar=
+
+javachar backup=1
+javachar getimage=Z0
+fil token0 00 0
+begin loop
+javachar readchar=
+
+begin token=
+
+curchar=
+
+curLexState0
+javachar getimage=
+
+fil token0 00 0
+begin loop
+javachar readchar=N
+begin token=N
+curchar=N
+curLexState0
+javachar readchar=3
+javachar readchar=0
+javachar readchar= 
+javachar readchar=G
+javachar backup=2
+javachar getimage=N30
+fil token0 00 0
+begin loop
+javachar readchar= 
+begin token= 
+curchar= 
+curLexState0
+javachar getimage= 
+fil token0 00 0
+begin loop
+javachar readchar=G
+begin token=G
+curchar=G
+curLexState0
+javachar readchar=1
+javachar readchar= 
+javachar readchar=X
+javachar backup=2
+javachar getimage=G1
+fil token0 00 0
+begin loop
+javachar readchar= 
+begin token= 
+curchar= 
+curLexState0
+javachar getimage= 
+fil token0 00 0
+begin loop
+javachar readchar=X
+begin token=X
+curchar=X
+curLexState0
+javachar readchar=3
+javachar readchar= 
+javachar readchar=C
+javachar backup=2
+javachar getimage=X3
+fil token0 00 0
+begin loop
+javachar readchar= 
+begin token= 
+curchar= 
+curLexState0
+javachar getimage= 
+fil token0 00 0
+begin loop
+javachar readchar=C
+begin token=C
+curchar=C
+curLexState0
+javachar readchar=H
+javachar readchar=R
+javachar readchar==
+javachar backup=1
+javachar getimage=CHR
+fil token0 00 0
+begin loop
+javachar readchar==
+begin token==
+curchar==
+curLexState0
+javachar readchar=0
+curLexState1
+javachar readchar=.
+javachar backup=1
+javachar readchar=.
+curLexState1
+javachar readchar=5
+curLexState1
+javachar readchar=
+
+javachar backup=1
+javachar readchar=
+
+curLexState1
+javachar getimage==0.5
+
+fil token0 00 0
+javachar getSuffix=[C@10f6f6a0
+javachar backup=1
+begin loop
+javachar readchar=
+
+begin token=
+
+curchar=
+
+curLexState0
+javachar getimage=
+
+fil token0 00 0
+begin loop
+javachar readchar=N
+begin token=N
+curchar=N
+curLexState0
+javachar readchar=4
+javachar readchar=0
+javachar readchar= 
+javachar readchar=G
+javachar backup=2
+javachar getimage=N40
+fil token0 00 0
+begin loop
+javachar readchar= 
+begin token= 
+curchar= 
+curLexState0
+javachar getimage= 
+fil token0 00 0
+begin loop
+javachar readchar=G
+begin token=G
+curchar=G
+curLexState0
+javachar readchar=1
+javachar readchar= 
+javachar readchar=Z
+javachar backup=2
+javachar getimage=G1
+fil token0 00 0
+begin loop
+javachar readchar= 
+begin token= 
+curchar= 
+curLexState0
+javachar getimage= 
+fil token0 00 0
+begin loop
+javachar readchar=Z
+begin token=Z
+curchar=Z
+curLexState0
+javachar readchar=-
+javachar readchar=5
+javachar readchar= 
+javachar backup=1
+javachar getimage=Z-5
+fil token0 00 0
+begin loop
+javachar readchar= 
+begin token= 
+curchar= 
+curLexState0
+javachar getimage= 
+fil token0 00 0
+begin loop
+javachar readchar=R
+begin token=R
+curchar=R
+curLexState0
+javachar readchar=N
+javachar readchar=D
+javachar readchar==
+javachar backup=1
+javachar getimage=RND
+fil token0 00 0
+begin loop
+javachar readchar==
+begin token==
+curchar==
+curLexState0
+javachar readchar=1
+curLexState1
+javachar readchar=
+
+javachar backup=1
+javachar readchar=
+
+curLexState1
+javachar getimage==1
+
+fil token0 00 0
+javachar getSuffix=[C@17d50773
+javachar backup=1
+begin loop
+javachar readchar=
+
+begin token=
+
+curchar=
+
+curLexState0
+javachar getimage=
+
+fil token0 00 0
+begin loop
+javachar readchar=N
+begin token=N
+curchar=N
+curLexState0
+javachar readchar=1
+javachar readchar=0
+javachar readchar= 
+javachar readchar=G
+javachar backup=2
+javachar getimage=N10
+fil token0 00 0
+begin loop
+javachar readchar= 
+begin token= 
+curchar= 
+curLexState0
+javachar getimage= 
+fil token0 00 0
+begin loop
+javachar readchar=G
+begin token=G
+curchar=G
+curLexState0
+javachar readchar=6
+javachar readchar= 
+javachar readchar=
+
+javachar backup=2
+javachar getimage=G6
+fil token0 00 0
+begin loop
+javachar readchar= 
+begin token= 
+curchar= 
+curLexState0
+javachar getimage= 
+fil token0 00 0
+begin loop
+javachar readchar=
+
+begin token=
+
+curchar=
+
+curLexState0
+javachar getimage=
+
+fil token0 00 0
+begin loop
+javachar readchar=N
+begin token=N
+curchar=N
+curLexState0
+javachar readchar=5
+javachar readchar=0
+javachar readchar= 
+javachar readchar=G
+javachar backup=2
+javachar getimage=N50
+fil token0 00 0
+begin loop
+javachar readchar= 
+begin token= 
+curchar= 
+curLexState0
+javachar getimage= 
+fil token0 00 0
+begin loop
+javachar readchar=G
+begin token=G
+curchar=G
+curLexState0
+javachar readchar=1
+javachar readchar= 
+javachar readchar=X
+javachar backup=2
+javachar getimage=G1
+fil token0 00 0
+begin loop
+javachar readchar= 
+begin token= 
+curchar= 
+curLexState0
+javachar getimage= 
+fil token0 00 0
+begin loop
+javachar readchar=X
+begin token=X
+curchar=X
+curLexState0
+javachar readchar=8
+javachar readchar= 
+javachar readchar=C
+javachar backup=2
+javachar getimage=X8
+fil token0 00 0
+begin loop
+javachar readchar= 
+begin token= 
+curchar= 
+curLexState0
+javachar getimage= 
+fil token0 00 0
+begin loop
+javachar readchar=C
+begin token=C
+curchar=C
+curLexState0
+javachar readchar=H
+javachar readchar=R
+javachar readchar==
+javachar backup=1
+javachar getimage=CHR
+fil token0 00 0
+begin loop
+javachar readchar==
+begin token==
+curchar==
+curLexState0
+javachar readchar=1
+curLexState1
+javachar readchar=
+
+javachar backup=1
+javachar readchar=
+
+curLexState1
+javachar getimage==1
+
+fil token0 00 0
+javachar getSuffix=[C@3a1729c8
+javachar backup=1
+begin loop
+javachar readchar=
+
+begin token=
+
+curchar=
+
+curLexState0
+javachar getimage=
+
+fil token0 00 0
+begin loop
+javachar readchar=N
+begin token=N
+curchar=N
+curLexState0
+javachar readchar=6
+javachar readchar=0
+javachar readchar= 
+javachar readchar=G
+javachar backup=2
+javachar getimage=N60
+fil token0 00 0
+begin loop
+javachar readchar= 
+begin token= 
+curchar= 
+curLexState0
+javachar getimage= 
+fil token0 00 0
+begin loop
+javachar readchar=G
+begin token=G
+curchar=G
+curLexState0
+javachar readchar=1
+javachar readchar= 
+javachar readchar=Z
+javachar backup=2
+javachar getimage=G1
+fil token0 00 0
+begin loop
+javachar readchar= 
+begin token= 
+curchar= 
+curLexState0
+javachar getimage= 
+fil token0 00 0
+begin loop
+javachar readchar=Z
+begin token=Z
+curchar=Z
+curLexState0
+javachar readchar=-
+javachar readchar=1
+javachar readchar=5
+javachar readchar=
+
+javachar backup=1
+javachar getimage=Z-15
+fil token0 00 0
+begin loop
+javachar readchar=
+
+begin token=
+
+curchar=
+
+curLexState0
+javachar getimage=
+
+fil token0 00 0
+begin loop
+javachar readchar=N
+begin token=N
+curchar=N
+curLexState0
+javachar readchar=7
+javachar readchar=0
+javachar readchar= 
+javachar readchar=G
+javachar backup=2
+javachar getimage=N70
+fil token0 00 0
+begin loop
+javachar readchar= 
+begin token= 
+curchar= 
+curLexState0
+javachar getimage= 
+fil token0 00 0
+begin loop
+javachar readchar=G
+begin token=G
+curchar=G
+curLexState0
+javachar readchar=3
+javachar readchar= 
+javachar readchar=X
+javachar backup=2
+javachar getimage=G3
+fil token0 00 0
+begin loop
+javachar readchar= 
+begin token= 
+curchar= 
+curLexState0
+javachar getimage= 
+fil token0 00 0
+begin loop
+javachar readchar=X
+begin token=X
+curchar=X
+curLexState0
+javachar readchar=1
+javachar readchar=0
+javachar readchar= 
+javachar readchar=Z
+javachar backup=2
+javachar getimage=X10
+fil token0 00 0
+begin loop
+javachar readchar= 
+begin token= 
+curchar= 
+curLexState0
+javachar getimage= 
+fil token0 00 0
+begin loop
+javachar readchar=Z
+begin token=Z
+curchar=Z
+curLexState0
+javachar readchar=-
+javachar readchar=3
+javachar readchar=0
+javachar readchar= 
+javachar backup=1
+javachar getimage=Z-30
+fil token0 00 0
+begin loop
+javachar readchar= 
+begin token= 
+curchar= 
+curLexState0
+javachar getimage= 
+fil token0 00 0
+begin loop
+javachar readchar=C
+begin token=C
+curchar=C
+curLexState0
+javachar readchar=R
+javachar readchar==
+javachar backup=1
+javachar getimage=CR
+fil token0 00 0
+begin loop
+javachar readchar==
+begin token==
+curchar==
+curLexState0
+javachar readchar=1
+curLexState1
+javachar readchar=0
+javachar backup=1
+javachar readchar=0
+curLexState1
+javachar readchar=
+
+javachar backup=1
+javachar readchar=
+
+curLexState1
+javachar getimage==10
+
+fil token0 00 0
+javachar getSuffix=[C@4679e389
+javachar backup=1
+begin loop
+javachar readchar=
+
+begin token=
+
+curchar=
+
+curLexState0
+javachar getimage=
+
+fil token0 00 0
+begin loop
+javachar readchar=N
+begin token=N
+curchar=N
+curLexState0
+javachar readchar=8
+javachar readchar=0
+javachar readchar= 
+javachar readchar=G
+javachar backup=2
+javachar getimage=N80
+fil token0 00 0
+begin loop
+javachar readchar= 
+begin token= 
+curchar= 
+curLexState0
+javachar getimage= 
+fil token0 00 0
+begin loop
+javachar readchar=G
+begin token=G
+curchar=G
+curLexState0
+javachar readchar=1
+javachar readchar= 
+javachar readchar=Z
+javachar backup=2
+javachar getimage=G1
+fil token0 00 0
+begin loop
+javachar readchar= 
+begin token= 
+curchar= 
+curLexState0
+javachar getimage= 
+fil token0 00 0
+begin loop
+javachar readchar=Z
+begin token=Z
+curchar=Z
+curLexState0
+javachar readchar=-
+javachar readchar=3
+javachar readchar=2
+javachar readchar=
+
+javachar backup=1
+javachar getimage=Z-32
+fil token0 00 0
+begin loop
+javachar readchar=
+
+begin token=
+
+curchar=
+
+curLexState0
+javachar getimage=
+
+fil token0 00 0
+begin loop
+javachar readchar=N
+begin token=N
+curchar=N
+curLexState0
+javachar readchar=9
+javachar readchar=0
+javachar readchar= 
+javachar readchar=G
+javachar backup=2
+javachar getimage=N90
+fil token0 00 0
+begin loop
+javachar readchar= 
+begin token= 
+curchar= 
+curLexState0
+javachar getimage= 
+fil token0 00 0
+begin loop
+javachar readchar=G
+begin token=G
+curchar=G
+curLexState0
+javachar readchar=1
+javachar readchar= 
+javachar readchar=X
+javachar backup=2
+javachar getimage=G1
+fil token0 00 0
+begin loop
+javachar readchar= 
+begin token= 
+curchar= 
+curLexState0
+javachar getimage= 
+fil token0 00 0
+begin loop
+javachar readchar=X
+begin token=X
+curchar=X
+curLexState0
+javachar readchar=3
+javachar readchar=0
+javachar readchar=
+
+javachar backup=1
+javachar getimage=X30
+fil token0 00 0
+begin loop
+javachar readchar=
+
+begin token=
+
+curchar=
+
+curLexState0
+javachar getimage=
+
+fil token0 00 0
+begin loop
+javachar readchar=
+
+begin token=
+
+curchar=
+
+curLexState0
+javachar getimage=
+
+fil token0 00 0
+begin loop
+fil token0 00 0
+return token=' 0
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+javachar init
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=;
+curLexState0
+begin loop
+curchar=(
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=R
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+return token=' 0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=;
+curLexState0
+begin loop
+curchar=(
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=R
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+return token=' 0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=;
+curLexState0
+begin loop
+curchar=(
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=R
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+return token=' 0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=;
+curLexState0
+begin loop
+curchar=(
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=R
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+return token=' 0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=;
+curLexState0
+begin loop
+curchar=(
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=R
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+return token=' 0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=;
+curLexState0
+begin loop
+curchar=(
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=R
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+return token=' 0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=;
+curLexState0
+begin loop
+curchar=(
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=R
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+return token=' 0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=;
+curLexState0
+begin loop
+curchar=(
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=R
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+return token=' 0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=;
+curLexState0
+begin loop
+curchar=(
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=R
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+return token=' 0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=;
+curLexState0
+begin loop
+curchar=(
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=R
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=C
+curLexState0
+begin loop
+curchar==
+curLexState0
+curLexState1
+curLexState1
+curLexState1
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=Z
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=N
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=G
+curLexState0
+begin loop
+curchar= 
+curLexState0
+begin loop
+curchar=X
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+curchar=
+
+curLexState0
+begin loop
+return token=' 0

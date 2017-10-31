@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="dubna.walt.cfgFileType">
+    <module_version install_time="1498721189125" last="true" origin="installer" specification_version="1.0">
+        <file crc="2443849770" name="config/Modules/dubna-walt-cfgFileType.xml"/>
+        <file crc="1979635569" name="modules/dubna-walt-cfgFileType.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,14 @@
+bin/
+classes/
+src/main/generated-sources/
+test.tmp/
+tmp/
+target/
+.gradle/
+gradle/
+junit/
+TEST-*
+**/out-dir/
+*.*~
+*.asc
+examples/JJTreeExamples/cpp/eg*/

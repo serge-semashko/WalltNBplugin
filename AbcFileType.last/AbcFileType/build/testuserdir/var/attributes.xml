@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="C:|Users|ostap|Documents|NetBeansProjects|JavaApplication1|src|javaapplication1|newAbcTemplate.abc">
+        <attr name="requireProject" boolvalue="true"/>
+    </fileobject>
+    <fileobject name="C:|Users|ostap|Documents|NetBeansProjects|JavaApplication1|src|javaapplication1|newAbcTemplate.wlt">
+        <attr name="requireProject" boolvalue="true"/>
+    </fileobject>
+    <fileobject name="C:|Users|ostap|Documents|NetBeansProjects|JavaApplication1|src|javaapplication1|newfile.wlt">
+        <attr name="requireProject" boolvalue="false"/>
+    </fileobject>
+    <fileobject name="C:|Users|ostap|Documents|NetBeansProjects|JavaApplication1|src|javaapplication1|test.abc">
+        <attr name="requireProject" boolvalue="true"/>
+    </fileobject>
+    <fileobject name="C:|Users|ostap|Documents|NetBeansProjects|JavaApplication1|sss.wlt">
+        <attr name="requireProject" boolvalue="true"/>
+    </fileobject>
+    <fileobject name="C:|Users|ostap|Documents|NetBeansProjects|JavaApplication1|testabc.abc">
+        <attr name="requireProject" boolvalue="true"/>
+    </fileobject>
+</attributes>

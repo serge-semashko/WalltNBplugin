@@ -1,0 +1,24 @@
+#Thu Jun 29 10:03:10 MSK 2017
+s5=jar\:file\:/C\:/Java/jdk1.8.0_121/jre/lib/jsse.jar\!/
+s4=jar\:file\:/C\:/Java/jdk1.8.0_121/jre/lib/sunrsasign.jar\!/
+s3=jar\:file\:/C\:/Java/jdk1.8.0_121/jre/lib/rt.jar\!/
+s19=jar\:file\:/C\:/Java/jdk1.8.0_121/jre/lib/ext/sunec.jar\!/
+s2=jar\:file\:/C\:/Java/jdk1.8.0_121/jre/lib/resources.jar\!/
+s18=jar\:file\:/C\:/Java/jdk1.8.0_121/jre/lib/ext/servlet-api.jar\!/
+s1=file\:/F\:/home/JavaApplication4/src/
+s17=jar\:file\:/C\:/Java/jdk1.8.0_121/jre/lib/ext/nashorn.jar\!/
+s16=jar\:file\:/C\:/Java/jdk1.8.0_121/jre/lib/ext/localedata.jar\!/
+s15=jar\:file\:/C\:/Java/jdk1.8.0_121/jre/lib/ext/jfxrt.jar\!/
+s14=jar\:file\:/C\:/Java/jdk1.8.0_121/jre/lib/ext/javax.mail.jar\!/
+s13=jar\:file\:/C\:/Java/jdk1.8.0_121/jre/lib/ext/jaccess.jar\!/
+s12=jar\:file\:/C\:/Java/jdk1.8.0_121/jre/lib/ext/dnsns.jar\!/
+s11=jar\:file\:/C\:/Java/jdk1.8.0_121/jre/lib/ext/cldrdata.jar\!/
+s10=jar\:file\:/C\:/Java/jdk1.8.0_121/jre/lib/ext/access-bridge-64.jar\!/
+s23=jar\:file\:/C\:/Java/jdk1.8.0_121/jre/lib/ext/zipfs.jar\!/
+s22=jar\:file\:/C\:/Java/jdk1.8.0_121/jre/lib/ext/sunpkcs11.jar\!/
+s21=jar\:file\:/C\:/Java/jdk1.8.0_121/jre/lib/ext/sunmscapi.jar\!/
+s20=jar\:file\:/C\:/Java/jdk1.8.0_121/jre/lib/ext/sunjce_provider.jar\!/
+s9=file\:/C\:/Java/jdk1.8.0_121/jre/classes/
+s8=jar\:file\:/C\:/Java/jdk1.8.0_121/jre/lib/jfr.jar\!/
+s7=jar\:file\:/C\:/Java/jdk1.8.0_121/jre/lib/charsets.jar\!/
+s6=jar\:file\:/C\:/Java/jdk1.8.0_121/jre/lib/jce.jar\!/

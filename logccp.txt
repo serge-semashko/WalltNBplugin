@@ -1,0 +1,1205 @@
+###typed  
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N10 G6 
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10 
+N80 G1 Z-32
+N90 G1 X30
+
+doc len =185caretOffsetr161
+s1 =  
+
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N10 G6 
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10 
+
+lpos=161 char='
+'
+###typed 
+
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N10 G6 
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10 
+
+N80 G1 Z-32
+N90 G1 X30
+
+doc len =186caretOffsetr162
+s1 = 
+
+
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N10 G6 
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10 
+
+
+lpos=162 char='
+'
+###typed N
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N10 G6 
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10 
+N
+N80 G1 Z-32
+N90 G1 X30
+
+doc len =187caretOffsetr163
+s1 = N
+
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N10 G6 
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10 
+N
+
+lpos=163 char='
+'
+###typed 8
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N10 G6 
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10 
+N8
+N80 G1 Z-32
+N90 G1 X30
+
+###typed 0
+doc len =189caretOffsetr165
+s1 = 0
+
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N10 G6 
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10 
+N80
+
+lpos=165 char='
+'
+doc len =189caretOffsetr165
+s1 = 0
+
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N10 G6 
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10 
+N80
+
+lpos=165 char='
+'
+###typed  
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N10 G6 
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10 
+N80 
+N80 G1 Z-32
+N90 G1 X30
+
+doc len =190caretOffsetr166
+s1 =  
+
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N10 G6 
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10 
+N80 
+
+lpos=166 char='
+'
+###typed 1
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10
+N80 G1 Z-32
+N90 G1 X30
+
+###typed 
+
+doc len =178caretOffsetr46
+s1 = 
+
+
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+
+
+lpos=46 char='
+'
+doc len =178caretOffsetr46
+s1 = 
+
+
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+
+
+lpos=46 char='
+'
+###typed 1
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10
+N80 G1 Z-32
+N90 G1 X30
+
+doc len =179caretOffsetr47
+s1 = 1
+
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+
+lpos=47 char='
+'
+###typed 
+
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10
+N80 G1 Z-32
+N90 G1 X30
+
+###typed 1
+###typed 
+
+###typed 1
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+1
+1
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10
+N80 G1 Z-32
+N90 G1 X30
+
+###typed 
+
+###typed 1
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+1
+1
+1
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10
+N80 G1 Z-32
+N90 G1 X30
+
+###typed 
+
+###typed 1
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+1
+1
+1
+1
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10
+N80 G1 Z-32
+N90 G1 X30
+
+###typed 
+
+###typed 1
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+1
+1
+1
+1
+1
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10
+N80 G1 Z-32
+N90 G1 X30
+
+###typed 
+
+###typed 1
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+1
+1
+1
+1
+1
+1
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10
+N80 G1 Z-32
+N90 G1 X30
+
+###typed 
+
+###typed 1
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10
+N80 G1 Z-32
+N90 G1 X30
+
+###typed 
+
+###typed 1
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10
+N80 G1 Z-32
+N90 G1 X30
+
+###typed 
+
+###typed 1
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10
+N80 G1 Z-32
+N90 G1 X30
+
+###typed 
+
+###typed 1
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+1
+1
+11
+1
+1
+1
+1
+1
+1
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10
+N80 G1 Z-32
+N90 G1 X30
+
+doc len =198caretOffsetr54
+s1 = 1
+
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+1
+1
+11
+
+lpos=54 char='
+'
+###typed 
+
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+1
+1
+11
+
+1
+1
+1
+1
+1
+1
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10
+N80 G1 Z-32
+N90 G1 X30
+
+###typed 1
+###typed 
+
+###typed 1
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+1
+1
+11
+1
+1
+1
+1
+1
+1
+1
+1
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10
+N80 G1 Z-32
+N90 G1 X30
+
+###typed 
+
+###typed 1
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+1
+1
+11
+1
+1
+1
+1
+1
+1
+1
+1
+1
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10
+N80 G1 Z-32
+N90 G1 X30
+
+###typed 
+
+###typed 1
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+1
+1
+11
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10
+N80 G1 Z-32
+N90 G1 X30
+
+###typed 
+
+###typed 1
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+1
+1
+11
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10
+N80 G1 Z-32
+N90 G1 X30
+
+###typed 
+
+###typed 1
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+1
+1
+11
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10
+N80 G1 Z-32
+N90 G1 X30
+
+###typed 
+
+###typed 1
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+1
+1
+11
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10
+N80 G1 Z-32
+N90 G1 X30
+
+###typed 
+
+###typed 1
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+1
+1
+11
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10
+N80 G1 Z-32
+N90 G1 X30
+
+###typed 
+
+###typed 1
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+1
+1
+11
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10
+N80 G1 Z-32
+N90 G1 X30
+
+###typed 
+
+###typed 1
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+1
+1
+11
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10
+N80 G1 Z-32
+N90 G1 X30
+
+###typed 
+
+###typed 1
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+1
+1
+11
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10
+N80 G1 Z-32
+N90 G1 X30
+
+###typed 
+
+###typed 1
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+1
+1
+11
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10
+N80 G1 Z-32
+N90 G1 X30
+
+###typed 
+
+###typed 1
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+1
+1
+11
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10
+N80 G1 Z-32
+N90 G1 X30
+
+###typed 
+
+###typed 1
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+1
+1
+11
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10
+N80 G1 Z-32
+N90 G1 X30
+
+doc len =226caretOffsetr82
+s1 = 1
+
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+1
+1
+11
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+lpos=82 char='
+'
+###typed 
+
+createTask = 
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+1
+1
+11
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+1
+1
+1
+1
+1
+1
+N10 G0 X0 Z1
+N20 G1 Z0
+N30 G1 X3 CHR=0.5
+N40 G1 Z-5 RND=1
+N50 G1 X8 CHR=1
+N60 G1 Z-15
+N70 G3 X10 Z-30 CR=10
+N80 G1 Z-32
+N90 G1 X30
+
+doc len =227caretOffsetr83
+s1 = 
+
+
+; THIS IS A COMMENT
+( THIS IS A COMMENT )
+
+1
+1
+1
+1
+11
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+
+lpos=83 char='
+'
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
+getAutoQueryTypes
