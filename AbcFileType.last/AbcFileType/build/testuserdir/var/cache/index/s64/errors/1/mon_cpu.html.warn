@@ -1,6 +1,0 @@
-ERROR_NO_BADGE:74:Expected end of element input but found span\n</span>\n      ^
-ERROR_NO_BADGE:75:Expected an operand but found <\n<input id="resetzoom" class="ui-button ui-widget 
-ERROR_NO_BADGE:76:Expected an operand but found <\n</div>\n^
-ERROR_NO_BADGE:77:Expected an operand but found <\n</div>\n^
-ERROR_NO_BADGE:79:Expected an operand but found <\n</div>\n^
-ERROR_NO_BADGE:80:Expected an operand but found <\n</div>\n^

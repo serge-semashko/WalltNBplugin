@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><module codename="org.roiderh.syntaxhighlighter">
-    <module_version install_time="1505898293924" last="true" origin="installer" specification_version="1.0">
-        <file crc="1474757373" name="config/Modules/org-roiderh-syntaxhighlighter.xml"/>
-        <file crc="534712165" name="modules/org-roiderh-syntaxhighlighter.jar"/>
-    </module_version>
-</module>

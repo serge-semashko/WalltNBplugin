@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.countries">
-    <module_version install_time="1498647980264" last="true" origin="installer" specification_version="1.0">
-        <file crc="1011763125" name="config/Modules/org-netbeans-modules-countries.xml"/>
-        <file crc="1244268085" name="modules/org-netbeans-modules-countries.jar"/>
-    </module_version>
-</module>

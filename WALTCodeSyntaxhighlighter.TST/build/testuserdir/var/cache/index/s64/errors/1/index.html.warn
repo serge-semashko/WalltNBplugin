@@ -1,3 +1,0 @@
-ERROR_NO_BADGE:7:Expected jsx_identifier but found error\n*/<!--\n   ^
-ERROR_NO_BADGE:8:Expected an operand but found jsx_identifier\n window.location.href="/sed/dubna";\n ^
-ERROR_NO_BADGE:9:Expected an operand but found error\n-->\n^
