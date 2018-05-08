@@ -3,6 +3,13 @@ package dubna.walt.syntaxhighlighter;
 @javax.annotation.Generated(value="org.netbeans.modules.openide.util.NbBundleProcessor")
 class Bundle {
     /**
+     * @return <i>WaltJumpBack</i>
+     * @see WaltJumpBack
+     */
+    static String CTL_WaltJumpBack() {
+        return org.openide.util.NbBundle.getMessage(Bundle.class, "CTL_WaltJumpBack");
+    }
+    /**
      * @return <i>Source</i>
      * @see WaltDataObject
      */

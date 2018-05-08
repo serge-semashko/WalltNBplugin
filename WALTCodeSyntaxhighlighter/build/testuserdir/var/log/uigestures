@@ -1,0 +1,385 @@
+<record>
+  <date>2017-11-29T01:53:40</date>
+  <millis>1511909620441</millis>
+  <sequence>97</sequence>
+  <level>300</level>
+  <thread>15</thread>
+  <message>CPU INFO</message>
+  <param>4</param>
+</record>
+<record>
+  <date>2017-11-29T01:53:40</date>
+  <millis>1511909620443</millis>
+  <sequence>98</sequence>
+  <level>300</level>
+  <thread>15</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1080</param>
+  <param>2</param>
+</record>
+<record>
+  <date>2017-11-29T01:53:40</date>
+  <millis>1511909620444</millis>
+  <sequence>99</sequence>
+  <level>700</level>
+  <thread>15</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2017-11-29T01:53:43</date>
+  <millis>1511909623426</millis>
+  <sequence>120</sequence>
+  <logger>org.netbeans.ui.metrics.laf</logger>
+  <level>800</level>
+  <thread>15</thread>
+  <message>USG_LOOK_AND_FEEL</message>
+  <param>Windows</param>
+  <param>Windows</param>
+</record>
+<record>
+  <date>2017-11-29T01:53:51</date>
+  <millis>1511909631383</millis>
+  <sequence>123</sequence>
+  <level>800</level>
+  <thread>30</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>25714790400</param>
+</record>
+<record>
+  <date>2017-11-29T01:53:56</date>
+  <millis>1511909636460</millis>
+  <sequence>127</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>800</level>
+  <thread>21</thread>
+  <message>USG_SHOW_START_PAGE</message>
+  <key>USG_SHOW_START_PAGE</key>
+  <catalog>org.netbeans.modules.welcome.resources.Bundle</catalog>
+  <param>false</param>
+</record>
+<record>
+  <date>2017-11-29T01:54:08</date>
+  <millis>1511909648194</millis>
+  <sequence>130</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>400</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>javax.swing.JMenuItem[New File...]</param>
+  <param>javax.swing.JMenuItem</param>
+  <param>org.netbeans.modules.project.ui.actions.NewFile[&amp;New File...]</param>
+  <param>org.netbeans.modules.project.ui.actions.NewFile</param>
+  <param>&amp;New File...</param>
+</record>
+<record>
+  <date>2017-11-29T01:54:08</date>
+  <millis>1511909648195</millis>
+  <sequence>131</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>javax.swing.JMenuItem[New File...]</param>
+  <param>javax.swing.JMenuItem</param>
+  <param>org.netbeans.modules.project.ui.actions.NewFile[&amp;New File...]</param>
+  <param>org.netbeans.modules.project.ui.actions.NewFile</param>
+  <param>&amp;New File...</param>
+</record>
+<record>
+  <date>2017-11-29T01:54:33</date>
+  <millis>1511909673360</millis>
+  <sequence>137</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>400</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
+  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
+  <param>org.openide.awt.AlwaysEnabledAction[WaltJumpBack]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>WaltJumpBack</param>
+</record>
+<record>
+  <date>2017-11-29T01:54:34</date>
+  <millis>1511909674117</millis>
+  <sequence>138</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>400</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
+  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
+  <param>org.openide.awt.AlwaysEnabledAction[WaltJumpBack]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>WaltJumpBack</param>
+</record>
+<record>
+  <date>2017-11-29T01:54:34</date>
+  <millis>1511909674414</millis>
+  <sequence>139</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>400</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
+  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
+  <param>org.openide.awt.AlwaysEnabledAction[WaltJumpBack]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>WaltJumpBack</param>
+</record>
+<record>
+  <date>2017-11-29T01:54:37</date>
+  <millis>1511909677820</millis>
+  <sequence>140</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>400</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
+  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
+  <param>org.openide.awt.AlwaysEnabledAction[WaltJumpBack]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>WaltJumpBack</param>
+</record>
+<record>
+  <date>2017-11-29T01:54:40</date>
+  <millis>1511909680885</millis>
+  <sequence>141</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>400</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
+  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
+  <param>org.openide.awt.AlwaysEnabledAction[WaltJumpBack]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>WaltJumpBack</param>
+</record>
+<record>
+  <date>2017-11-29T01:54:41</date>
+  <millis>1511909681404</millis>
+  <sequence>142</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>400</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
+  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
+  <param>org.openide.awt.AlwaysEnabledAction[WaltJumpBack]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>WaltJumpBack</param>
+</record>
+<record>
+  <date>2017-11-29T01:54:41</date>
+  <millis>1511909681645</millis>
+  <sequence>143</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>400</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
+  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
+  <param>org.openide.awt.AlwaysEnabledAction[WaltJumpBack]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>WaltJumpBack</param>
+</record>
+<record>
+  <date>2017-11-29T01:54:41</date>
+  <millis>1511909681876</millis>
+  <sequence>144</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>400</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
+  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
+  <param>org.openide.awt.AlwaysEnabledAction[WaltJumpBack]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>WaltJumpBack</param>
+</record>
+<record>
+  <date>2017-11-29T01:54:42</date>
+  <millis>1511909682062</millis>
+  <sequence>145</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>400</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
+  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
+  <param>org.openide.awt.AlwaysEnabledAction[WaltJumpBack]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>WaltJumpBack</param>
+</record>
+<record>
+  <date>2017-11-29T01:54:47</date>
+  <millis>1511909687091</millis>
+  <sequence>146</sequence>
+  <logger>org.netbeans.ui.metrics.editor</logger>
+  <level>800</level>
+  <thread>28</thread>
+  <message>USG_EDITOR_MIME_TYPE</message>
+  <param>text/x-walt</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2017-11-29T01:54:47</date>
+  <millis>1511909687632</millis>
+  <sequence>150</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2017-11-29T01:54:47</date>
+  <millis>1511909687700</millis>
+  <sequence>151</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>26</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2017-11-29T01:54:47</date>
+  <millis>1511909687861</millis>
+  <sequence>152</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>26</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>80</param>
+</record>
+<record>
+  <date>2017-11-29T14:20:37</date>
+  <millis>1511954437850</millis>
+  <sequence>95</sequence>
+  <level>300</level>
+  <thread>15</thread>
+  <message>CPU INFO</message>
+  <param>4</param>
+</record>
+<record>
+  <date>2017-11-29T14:20:37</date>
+  <millis>1511954437990</millis>
+  <sequence>96</sequence>
+  <level>300</level>
+  <thread>15</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1080</param>
+  <param>2</param>
+</record>
+<record>
+  <date>2017-11-29T14:20:37</date>
+  <millis>1511954437991</millis>
+  <sequence>97</sequence>
+  <level>700</level>
+  <thread>15</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2017-11-29T14:20:40</date>
+  <millis>1511954440976</millis>
+  <sequence>119</sequence>
+  <logger>org.netbeans.ui.metrics.laf</logger>
+  <level>800</level>
+  <thread>15</thread>
+  <message>USG_LOOK_AND_FEEL</message>
+  <param>Windows</param>
+  <param>Windows</param>
+</record>
+<record>
+  <date>2017-11-29T14:20:51</date>
+  <millis>1511954451559</millis>
+  <sequence>123</sequence>
+  <level>800</level>
+  <thread>35</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>25714790400</param>
+</record>
+<record>
+  <date>2017-11-29T14:33:53</date>
+  <millis>1511955233896</millis>
+  <sequence>125</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>400</level>
+  <thread>39</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
+  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
+  <param>org.openide.awt.AlwaysEnabledAction[WaltJumpBack]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>WaltJumpBack</param>
+</record>
+<record>
+  <date>2017-11-29T14:33:58</date>
+  <millis>1511955238300</millis>
+  <sequence>129</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>39</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2017-11-29T14:33:58</date>
+  <millis>1511955238420</millis>
+  <sequence>130</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>67</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2017-11-29T14:33:58</date>
+  <millis>1511955238497</millis>
+  <sequence>131</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>67</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>57</param>
+</record>

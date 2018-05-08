@@ -293,4 +293,47 @@
             </folder>
         </folder>
     </folder>
+    <folder name="Actions">
+        <folder name="Edit">
+            <file name="dubna-walt-syntaxhighlighter-WaltJumpBack.instance">
+                <!--dubna.walt.syntaxhighlighter.WaltJumpBack-->
+                <attr
+                    bundlevalue="dubna.walt.syntaxhighlighter.Bundle#CTL_WaltJumpBack" name="displayName"/>
+                <attr
+                    methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="dubna.walt.syntaxhighlighter.WaltJumpBack"/>
+                <attr name="iconBase" stringvalue="dubna/walt/syntaxhighlighter/bar_icon_prev.png"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="GoTo">
+            <file name="dubna-walt-syntaxhighlighter-WaltJumpBack.shadow">
+                <!--dubna.walt.syntaxhighlighter.WaltJumpBack-->
+                <attr name="originalFile" stringvalue="Actions/Edit/dubna-walt-syntaxhighlighter-WaltJumpBack.instance"/>
+                <attr intvalue="2900" name="position"/>
+            </file>
+            <file name="dubna-walt-syntaxhighlighter-WaltJumpBack-separatorAfter.instance">
+                <!--dubna.walt.syntaxhighlighter.WaltJumpBack-->
+                <attr name="instanceCreate" newvalue="javax.swing.JSeparator"/>
+                <attr intvalue="2950" name="position"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Toolbars">
+        <folder name="UndoRedo">
+            <file name="dubna-walt-syntaxhighlighter-WaltJumpBack.shadow">
+                <!--dubna.walt.syntaxhighlighter.WaltJumpBack-->
+                <attr name="originalFile" stringvalue="Actions/Edit/dubna-walt-syntaxhighlighter-WaltJumpBack.instance"/>
+                <attr intvalue="300" name="position"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Shortcuts">
+        <file name="DO-BACK_SPACE.shadow">
+            <!--dubna.walt.syntaxhighlighter.WaltJumpBack-->
+            <attr name="originalFile" stringvalue="Actions/Edit/dubna-walt-syntaxhighlighter-WaltJumpBack.instance"/>
+        </file>
+    </folder>
 </filesystem>
